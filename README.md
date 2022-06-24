@@ -20,7 +20,7 @@ Year 2018
 
 ![Year2018 comparison](https://user-images.githubusercontent.com/106939511/175434655-19815b97-557d-4fd4-92ab-3ae9ea19131f.png)
 
-To see de scrip please visit: [GitHub pages]:(https://github.com/AAGA85/stocks-analysis/blob/aa1616c6be9a5d7c3498cc87ac978e46c5044004/VBA_Challenge.xlsm)
+To see the scrip please visit: [GitHub pages]:(https://github.com/AAGA85/stocks-analysis/blob/aa1616c6be9a5d7c3498cc87ac978e46c5044004/VBA_Challenge.xlsm)
 
 ## Summary
 
