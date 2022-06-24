@@ -9,7 +9,7 @@ The original code developed for this purpose was working well for a certain numb
 >*Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behavior*  -Martin Fowler (Father of Code Smell)
 
 ## Results
-Prior to start the optimization of our code, it was needed to make a copy of the workbook that was developed in Module2 and attached the “refactored subroutine” using Visual Studio to open the file and copy the scrip to VBA. Then using the instructions detailed in this Challenge, I was able to refactor the code and run the macro faster than the original code (≈ 80% of efficiency) as you can see below (visit [GitHub pages]:(
+Prior to start the optimization of our code, it was needed to make a copy of the workbook that was developed in Module2 and attached the “refactored subroutine” using Visual Studio to open the file and copy the scrip to VBA. Then using the instructions detailed in this Challenge, I was able to refactor the code and run the macro faster than the original code (≈ 80% of efficiency) as you can see below (visit [GitHub pages]:(VBA_Challenge.xlsm
 
 Year 2017
 
